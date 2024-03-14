@@ -1,4 +1,4 @@
-## HOWTORUN THIS PROJECT <<<<
+## HOWTO RUN THIS PROJECT <<<<
 
 After making some changes or not, In the project directory, you can run:
 
