@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.checkbox {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border: 2px solid #007965;
+  cursor: pointer;
+  transition: 0.1s all ease-in-out;
+}
+
+.active {
+  background: #00af91;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+}
+
+p {
+  margin-left: 10px;
+}
